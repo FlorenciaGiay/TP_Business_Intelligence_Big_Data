@@ -1,0 +1,501 @@
+id_local,nombre,m2,distancia_boletería,zona
+1,"Paucek, O'Kon and Stehr",94,311,sur
+2,Kemmer-Harber,87,273,este
+3,Windler-Walter,215,436,sur
+4,Grimes Group,70,388,norte
+5,Ullrich Inc,230,132,este
+6,Leffler Group,161,921,noreste
+7,Nolan-Sauer,68,559,noreste
+8,"Witting, Towne and Howe",68,193,noreste
+9,"Ebert, Dickinson and Gleason",129,295,oeste
+10,King-Bergnaum,108,742,sur
+11,Wilderman-Boyer,69,731,noreste
+12,Price-Haley,190,562,sureste
+13,"Dooley, Kreiger and Osinski",77,733,noreste
+14,Lueilwitz and Sons,90,958,sureste
+15,"Kub, Cassin and Weber",175,470,norte
+16,Parisian-Schneider,118,141,noreste
+17,"Effertz, Kuhlman and Feil",65,652,sureste
+18,Bartoletti and Sons,81,855,oeste
+19,"Rolfson, Carter and Torphy",85,856,sur
+20,Rolfson and Sons,130,792,noroeste
+21,Cartwright-Boyle,224,242,suroeste
+22,"Oberbrunner, Kling and Streich",107,248,oeste
+23,Farrell Group,203,392,noroeste
+24,Kohler Inc,147,511,sureste
+25,Thiel Group,141,85,noreste
+26,"Treutel, Emmerich and Reynolds",209,455,sureste
+27,Funk Group,246,417,este
+28,"Keeling, Schuster and Hilll",178,511,noreste
+29,Kiehn LLC,55,185,noroeste
+30,Larson-Gerhold,55,396,suroeste
+31,Gutmann-Crona,200,415,noreste
+32,"Batz, Kuhlman and Mills",238,301,sur
+33,Swaniawski Group,206,122,noreste
+34,Schneider Group,208,774,norte
+35,Simonis LLC,182,112,oeste
+36,Bradtke-Cremin,64,808,norte
+37,"Heller, Johnson and Witting",146,604,noreste
+38,Mohr LLC,195,628,sureste
+39,"Smitham, Marquardt and Ullrich",121,355,noroeste
+40,"Stoltenberg, Langworth and Streich",109,620,sur
+41,Powlowski-Cassin,230,902,sureste
+42,"O'Reilly, Zieme and Boyer",52,327,norte
+43,Hand Inc,62,195,norte
+44,Stamm LLC,184,930,sureste
+45,Larkin Group,249,930,este
+46,Hermann-Murazik,177,681,oeste
+47,Bashirian LLC,162,138,noroeste
+48,Boyer-Langosh,52,611,sureste
+49,"Schmitt, Satterfield and Hilpert",205,405,oeste
+50,Nader Inc,65,890,este
+51,"Treutel, Funk and Schaden",221,352,este
+52,"Mraz, Larkin and Robel",172,662,norte
+53,"Harvey, Hackett and Langworth",99,331,norte
+54,Carter LLC,122,105,este
+55,"Marvin, Halvorson and Bechtelar",173,752,noreste
+56,Legros-Konopelski,65,695,suroeste
+57,Lehner and Sons,248,427,suroeste
+58,Effertz-Hoppe,207,269,norte
+59,Lang-Gusikowski,72,647,este
+60,Dibbert and Sons,220,925,norte
+61,Wisozk-Cormier,232,127,noroeste
+62,Jenkins-Reinger,244,565,noroeste
+63,Stark-Jacobi,114,356,noroeste
+64,D'Amore-Hills,95,307,norte
+65,"Trantow, Parker and Hyatt",192,345,sureste
+66,Kuhlman-Yundt,57,942,suroeste
+67,Barrows-Johns,53,897,oeste
+68,Armstrong-Mertz,153,893,sur
+69,"Anderson, Waelchi and Kuhlman",181,399,norte
+70,"Bechtelar, Kutch and O'Hara",208,77,sur
+71,Homenick Group,86,852,norte
+72,Wisozk and Sons,84,274,oeste
+73,"Auer, Will and Watsica",76,405,norte
+74,Waters-Boyer,179,404,sur
+75,Ritchie Group,203,789,noroeste
+76,Gutkowski Group,163,709,sur
+77,Huel-Blanda,193,834,oeste
+78,Murphy Inc,181,171,noreste
+79,"Schowalter, Strosin and Bailey",85,107,este
+80,"Lebsack, Schiller and White",88,826,norte
+81,Quitzon-Carroll,79,238,oeste
+82,Sawayn and Sons,237,988,sur
+83,Gulgowski-Kirlin,103,160,noreste
+84,Bauch Group,225,93,sur
+85,"O'Connell, Cronin and Reinger",83,633,norte
+86,Crooks-Mitchell,186,552,este
+87,"Greenfelder, Wuckert and Davis",197,285,oeste
+88,Kohler-Koepp,175,906,oeste
+89,Bauch-Wunsch,90,385,noroeste
+90,Mante-Grady,247,472,sureste
+91,Bergnaum Group,245,861,sureste
+92,Ortiz and Sons,91,392,noreste
+93,Weissnat Inc,75,442,oeste
+94,Kuhn-Von,97,762,sureste
+95,Stracke-Batz,130,928,noroeste
+96,Reichert Group,165,322,este
+97,"Littel, Gerlach and Pfeffer",127,564,sur
+98,Crooks-Bartell,62,434,este
+99,Fadel Inc,87,132,este
+100,"Mueller, Pagac and Kulas",239,946,noroeste
+101,"Mante, Hagenes and Gusikowski",183,778,norte
+102,Ondricka-Schaefer,59,841,suroeste
+103,Abshire LLC,109,280,oeste
+104,Kautzer-Brekke,50,829,este
+105,Schultz Inc,184,710,sureste
+106,Hackett Group,63,789,sureste
+107,"Murphy, Cormier and Johnson",222,322,este
+108,"Tillman, Dooley and Swaniawski",169,646,noroeste
+109,"Bechtelar, Gaylord and Walsh",230,295,este
+110,Bahringer-Johnson,108,739,este
+111,Jenkins-Daugherty,152,557,norte
+112,"Connelly, Christiansen and Goldner",225,224,sureste
+113,Kilback-Watsica,97,578,noroeste
+114,Langworth-Morar,195,144,este
+115,Nitzsche Group,231,808,norte
+116,Stracke-Corwin,234,374,oeste
+117,Lemke LLC,78,702,oeste
+118,"Cummerata, Bergnaum and Ankunding",59,552,sur
+119,Herzog-Botsford,163,401,sureste
+120,Fahey LLC,89,766,suroeste
+121,"Schimmel, Block and Herman",238,935,oeste
+122,Grimes LLC,102,465,este
+123,Grady-Maggio,138,307,sur
+124,Sanford-Cummings,234,69,norte
+125,Leuschke-Bruen,146,74,noroeste
+126,Franecki-Ziemann,242,862,norte
+127,Mraz Inc,158,962,sureste
+128,"Mante, Boyer and Witting",143,79,suroeste
+129,"Hettinger, Block and Heaney",59,636,noroeste
+130,Wilderman-Blick,57,109,sur
+131,Kreiger-Mosciski,212,766,norte
+132,Hessel-Block,115,714,este
+133,"Auer, Leffler and Haag",167,667,noroeste
+134,Mueller-Prosacco,63,405,noreste
+135,Lang-Hamill,75,401,noroeste
+136,Collins-Zboncak,129,794,noreste
+137,Fahey and Sons,131,597,noroeste
+138,Nolan-Champlin,85,550,norte
+139,"Runolfsson, Cole and Hessel",97,654,noreste
+140,"Hickle, Witting and Ratke",238,385,sureste
+141,"Batz, Gutkowski and Hessel",182,544,norte
+142,Orn-Bednar,210,771,suroeste
+143,"Dooley, Will and Blick",104,984,sur
+144,Marks-Schmeler,167,259,oeste
+145,Lehner and Sons,135,227,este
+146,"Rosenbaum, Douglas and DuBuque",82,399,oeste
+147,Becker LLC,117,133,suroeste
+148,Kerluke-Armstrong,68,105,noroeste
+149,"Ward, Nader and Koch",173,760,noreste
+150,Krajcik-Hauck,227,706,suroeste
+151,Watsica-Johnston,83,836,suroeste
+152,"DuBuque, Connelly and Greenholt",143,920,noreste
+153,"Powlowski, Luettgen and Ankunding",169,881,este
+154,Kshlerin Inc,221,538,noroeste
+155,"Nader, Steuber and Crooks",240,695,suroeste
+156,"Kub, Schuster and Hilll",115,373,este
+157,Kautzer Group,119,178,este
+158,Stark Group,59,889,este
+159,Spinka Inc,100,880,sureste
+160,O'Connell-Lueilwitz,103,196,este
+161,"Gleason, Ruecker and Windler",155,330,sureste
+162,Gorczany Group,159,346,sur
+163,Schamberger Group,137,150,norte
+164,Bergstrom LLC,89,821,suroeste
+165,"Streich, Bartoletti and Prosacco",125,995,noreste
+166,"Heller, Tillman and Kulas",85,817,oeste
+167,Dibbert Inc,73,151,noroeste
+168,"Kozey, Wunsch and Ferry",126,616,oeste
+169,"Gutmann, Emard and Zemlak",239,993,sur
+170,"Fritsch, Fay and Tremblay",182,171,sur
+171,"Conn, Harris and Beatty",87,150,suroeste
+172,Gusikowski Group,242,365,este
+173,Mills-Paucek,171,246,oeste
+174,"Harris, Stokes and Denesik",77,677,oeste
+175,Wilderman-Runolfsson,187,590,sur
+176,Lockman-Raynor,98,103,este
+177,Harris-Nienow,68,976,norte
+178,"Hudson, Abbott and Cronin",128,654,oeste
+179,"Weissnat, Thiel and Williamson",146,411,este
+180,"Langosh, Toy and Larkin",235,552,suroeste
+181,"Treutel, Nicolas and Ruecker",81,734,sur
+182,Hickle-Gerhold,174,674,norte
+183,Upton-Parisian,243,985,oeste
+184,"McDermott, Shields and Jakubowski",74,338,sur
+185,Tromp and Sons,190,230,suroeste
+186,Hansen-Herman,185,745,sureste
+187,Gaylord and Sons,161,475,suroeste
+188,"Doyle, Shields and Muller",131,674,norte
+189,Reynolds-Conn,225,806,noreste
+190,"O'Connell, Kiehn and Dibbert",248,910,este
+191,"McLaughlin, Greenfelder and Dibbert",207,721,noreste
+192,"Little, Pouros and Heidenreich",52,168,sur
+193,Weber Inc,216,644,este
+194,Prosacco LLC,215,233,este
+195,Weissnat and Sons,249,736,sureste
+196,McClure Inc,56,460,este
+197,Muller and Sons,222,277,sur
+198,"Connelly, Gutmann and Leuschke",134,261,norte
+199,"Lebsack, Powlowski and Konopelski",99,212,este
+200,"Gutmann, Schimmel and Hodkiewicz",250,160,noreste
+201,Huels Group,106,812,norte
+202,"Considine, Weimann and Schowalter",68,93,este
+203,"Ryan, Schmidt and Crist",52,445,noroeste
+204,Cronin Group,245,326,este
+205,"Oberbrunner, Kassulke and Terry",167,148,suroeste
+206,Schneider-Monahan,106,841,noroeste
+207,"Farrell, Douglas and Homenick",102,265,este
+208,"Kling, Keebler and Keebler",97,525,este
+209,Nienow-Farrell,95,698,noroeste
+210,Rempel-Ullrich,241,514,oeste
+211,"Will, Gorczany and Skiles",94,163,sureste
+212,Gusikowski LLC,234,55,norte
+213,D'Amore LLC,243,342,noroeste
+214,Tremblay-Hilpert,57,416,este
+215,Romaguera-Becker,124,387,norte
+216,Schinner-Lesch,200,151,noroeste
+217,Heller-Murray,98,376,suroeste
+218,Schroeder-Carter,128,555,noroeste
+219,"Klein, Pfannerstill and Bailey",211,368,norte
+220,"Homenick, Koss and Ullrich",210,948,oeste
+221,Doyle and Sons,166,634,sureste
+222,"Gerhold, Parker and Senger",158,88,norte
+223,"Gottlieb, Lebsack and Ullrich",238,559,sur
+224,"Farrell, Weimann and Mueller",200,113,noroeste
+225,Mitchell Inc,237,817,suroeste
+226,Raynor-Johns,229,529,norte
+227,"Reichert, Aufderhar and Purdy",226,69,noroeste
+228,Schmidt-Von,52,857,norte
+229,"Tillman, Kovacek and Gleason",209,623,norte
+230,Will-Mraz,143,361,noreste
+231,"Kirlin, Collier and Pouros",233,923,sur
+232,Shanahan and Sons,100,142,suroeste
+233,Leannon Inc,204,181,sur
+234,"Schaden, Gibson and Parisian",145,229,este
+235,Prohaska and Sons,71,937,oeste
+236,"Fadel, Trantow and Kuhic",123,515,norte
+237,Runte-Jast,69,841,noreste
+238,Davis-Willms,121,873,oeste
+239,Brekke LLC,128,688,noroeste
+240,Torp-Lowe,244,835,noroeste
+241,"Collins, Cormier and Reichert",61,216,norte
+242,"Johns, Haley and Ward",232,423,norte
+243,Gaylord-Halvorson,171,218,suroeste
+244,Wunsch-Schaden,171,755,noreste
+245,"Denesik, Rolfson and McLaughlin",201,999,noroeste
+246,Bahringer-Haag,167,858,noroeste
+247,"Glover, Tremblay and Hagenes",96,869,sureste
+248,"Kunde, Adams and Weimann",66,101,noroeste
+249,Bruen Inc,238,359,este
+250,"Mann, Crist and Hartmann",119,521,este
+251,"Ritchie, Quitzon and Bartell",65,860,este
+252,Schultz-Turcotte,117,849,norte
+253,Mayer-Osinski,75,406,sur
+254,Mraz Group,155,759,este
+255,Pouros-Veum,244,947,norte
+256,Davis-Morar,53,415,oeste
+257,"Ruecker, Schoen and Bernier",95,763,noreste
+258,"Marquardt, Collier and Yundt",250,901,noreste
+259,Lubowitz-Ryan,104,330,norte
+260,Macejkovic Inc,141,699,noroeste
+261,Orn Inc,73,262,norte
+262,Corkery-Baumbach,235,313,oeste
+263,Schowalter LLC,120,641,sur
+264,Waters-Wiegand,139,76,sur
+265,Crooks-Barton,250,993,oeste
+266,"McCullough, Harvey and Upton",220,991,este
+267,Champlin LLC,133,101,norte
+268,Rippin Inc,204,134,suroeste
+269,"Graham, Padberg and Howe",229,387,norte
+270,"Walter, Cartwright and Gleichner",150,430,este
+271,O'Hara Inc,90,541,noroeste
+272,Keebler Inc,245,102,suroeste
+273,Larson Group,152,895,norte
+274,Raynor-Fay,93,466,sureste
+275,Reinger-Simonis,118,756,noroeste
+276,Herzog-Mitchell,170,559,oeste
+277,Hackett Group,239,426,noroeste
+278,Langosh LLC,246,243,noreste
+279,"Ferry, Morar and Koss",138,961,norte
+280,"Moen, Konopelski and Daniel",122,716,sur
+281,Beier-Hagenes,89,206,noroeste
+282,Larson Group,223,211,noreste
+283,Barrows-Murray,247,504,noreste
+284,Ward Group,131,219,noroeste
+285,Grady LLC,103,286,sur
+286,"Leannon, Davis and Nitzsche",202,99,este
+287,Quitzon-Hodkiewicz,222,170,sur
+288,"Kunze, Leuschke and Morissette",134,722,noroeste
+289,Treutel-Cronin,122,557,norte
+290,Satterfield-Keebler,110,619,oeste
+291,"Moen, Langosh and Frami",188,642,norte
+292,"Witting, Strosin and Renner",248,682,sur
+293,Conn-Morar,59,924,oeste
+294,Kemmer-Robel,146,186,noroeste
+295,Lakin Inc,141,910,noroeste
+296,Stracke-Ward,206,211,sureste
+297,Little-Bailey,168,934,suroeste
+298,"Ernser, Kozey and Senger",227,155,noreste
+299,"Hauck, Lebsack and Quigley",50,611,noreste
+300,Kerluke-Wunsch,103,749,sur
+301,Lehner-Lang,72,635,sur
+302,Grimes and Sons,201,203,este
+303,"Luettgen, Jaskolski and Braun",105,490,este
+304,Swaniawski-Kessler,97,780,este
+305,"Kassulke, Hegmann and Langworth",192,502,este
+306,"Witting, Crona and Rau",186,958,noroeste
+307,Boehm-Pfannerstill,220,596,norte
+308,"Leannon, Nicolas and Lindgren",94,472,noreste
+309,Dooley-Beier,215,752,suroeste
+310,Rolfson and Sons,248,344,este
+311,Okuneva and Sons,194,601,oeste
+312,Kessler and Sons,121,660,norte
+313,Olson and Sons,103,955,sur
+314,Jacobi Group,130,880,este
+315,Franecki and Sons,232,675,noroeste
+316,Langosh and Sons,69,728,noroeste
+317,"Koss, Ledner and Christiansen",84,369,noroeste
+318,"Ratke, Schoen and Kozey",151,353,oeste
+319,Runte and Sons,54,908,sureste
+320,Feeney and Sons,57,898,suroeste
+321,Senger-Howe,224,365,este
+322,"Wyman, Homenick and Pollich",228,214,suroeste
+323,"Boyer, Altenwerth and Deckow",64,556,oeste
+324,Emard Inc,51,530,suroeste
+325,Luettgen Inc,67,261,noreste
+326,"Littel, Parker and Sporer",188,596,noreste
+327,"Jacobson, Swift and Braun",210,256,oeste
+328,"Ziemann, McKenzie and Aufderhar",236,628,oeste
+329,"Mante, Spinka and Thiel",193,297,noreste
+330,Dicki-Dickinson,129,663,norte
+331,Stamm Inc,93,273,este
+332,Dare and Sons,233,126,suroeste
+333,"Brekke, Lubowitz and Bernhard",69,884,noroeste
+334,Bartell-Trantow,219,158,suroeste
+335,Stanton LLC,232,398,noreste
+336,Rippin-Anderson,185,715,norte
+337,Marquardt-O'Connell,241,655,sureste
+338,Schuster Group,166,492,suroeste
+339,"Okuneva, Mayer and Koss",142,204,noroeste
+340,"Wunsch, Kulas and Hegmann",167,597,sur
+341,"Boyer, O'Keefe and Douglas",170,117,este
+342,"Howell, Beier and Schinner",202,995,norte
+343,"Wiegand, Walter and Grimes",246,535,suroeste
+344,Gleichner-Ritchie,205,148,este
+345,Mosciski-Feest,165,589,sur
+346,Schinner-Thompson,98,225,oeste
+347,Medhurst-Mann,211,668,suroeste
+348,Ernser-Blanda,91,521,oeste
+349,Walter-Cassin,110,163,noreste
+350,"Wisozk, Blick and Bogan",132,58,oeste
+351,Fritsch-Wiegand,127,54,oeste
+352,"Kub, Barrows and Barton",246,420,suroeste
+353,Lehner-Hammes,229,573,este
+354,Gibson LLC,109,985,noroeste
+355,Kiehn LLC,76,382,suroeste
+356,Fay and Sons,245,871,oeste
+357,"Pouros, Prohaska and Kuhic",183,741,este
+358,Bartoletti Inc,203,267,sureste
+359,Larson-Steuber,173,851,noreste
+360,West-Mante,69,509,sureste
+361,Schroeder and Sons,143,257,noroeste
+362,Jones LLC,189,895,norte
+363,Welch and Sons,211,769,oeste
+364,Hackett LLC,95,840,sur
+365,Zieme-Pacocha,132,217,este
+366,Farrell-Murphy,187,778,norte
+367,Rath Group,123,720,suroeste
+368,"Reynolds, Grant and Farrell",102,708,noreste
+369,Waelchi Group,86,642,suroeste
+370,Marquardt-Champlin,56,985,sureste
+371,"Fisher, Davis and White",191,909,noroeste
+372,Huel Group,218,203,norte
+373,Aufderhar Group,96,843,oeste
+374,Feest LLC,62,822,este
+375,"Walker, Wuckert and Brown",180,620,oeste
+376,McKenzie-Becker,174,54,norte
+377,Hilpert-Fisher,126,628,noroeste
+378,"Marquardt, Klocko and Mertz",92,862,sur
+379,O'Conner-Rodriguez,233,382,noreste
+380,Cormier and Sons,213,526,oeste
+381,Hills-Cassin,84,76,este
+382,White-Skiles,56,523,noroeste
+383,Lang LLC,213,679,noreste
+384,Rodriguez Group,235,905,noroeste
+385,"Wisoky, Grant and Mitchell",204,414,noroeste
+386,Deckow LLC,147,760,este
+387,"Botsford, Paucek and McKenzie",66,298,noreste
+388,Zieme Group,66,478,oeste
+389,"Emard, Little and Hilll",170,701,noroeste
+390,Koelpin-Vandervort,150,358,noroeste
+391,Kemmer-Farrell,201,205,sureste
+392,Green-Considine,225,631,suroeste
+393,"Fritsch, Wolff and Balistreri",58,933,sur
+394,"Beahan, Bailey and Johns",249,325,suroeste
+395,"Hand, Murray and Goyette",155,726,noroeste
+396,Dickinson-Gerlach,247,246,oeste
+397,"Klein, Kunde and Krajcik",56,800,sureste
+398,Ebert and Sons,69,744,sur
+399,Ortiz-Koch,128,681,suroeste
+400,Hermiston-DuBuque,184,677,noreste
+401,Lakin and Sons,89,357,noroeste
+402,Rolfson-Bruen,83,453,sureste
+403,Kreiger-Gerlach,176,455,sur
+404,"Carter, Wunsch and Funk",220,182,oeste
+405,Kassulke-Bogan,250,647,noreste
+406,Goldner-Wuckert,103,904,suroeste
+407,"Rath, Pouros and Skiles",50,438,oeste
+408,"Brakus, Mayer and Fisher",191,495,norte
+409,Denesik Group,241,179,noreste
+410,Ritchie-Walker,175,551,noreste
+411,"Carter, Luettgen and Hilll",219,635,sureste
+412,Waelchi Group,202,546,sureste
+413,Hyatt-Thompson,174,395,este
+414,Goldner-Jakubowski,205,151,noreste
+415,"Halvorson, Wilderman and Carroll",167,634,norte
+416,Jenkins-Romaguera,122,392,sur
+417,Nader-Wyman,121,558,oeste
+418,Hackett-Schneider,62,797,sur
+419,"Bergnaum, Senger and Spinka",214,222,noroeste
+420,Quigley-Kessler,126,216,norte
+421,Schinner-Goyette,173,339,noreste
+422,Hartmann-Mann,91,63,norte
+423,"Deckow, Lebsack and Klocko",95,326,sureste
+424,Walsh-Koch,95,348,este
+425,O'Reilly-Cartwright,221,572,noroeste
+426,Mohr LLC,250,932,este
+427,Kertzmann and Sons,109,931,norte
+428,"Willms, Monahan and Oberbrunner",80,937,noroeste
+429,Schulist-Klocko,83,490,noroeste
+430,"Kreiger, Boyle and Watsica",236,318,noroeste
+431,"Flatley, Grimes and Kuvalis",126,505,noreste
+432,Becker-Wunsch,191,909,suroeste
+433,"Goldner, Langosh and Fisher",147,806,noroeste
+434,"Hessel, Mraz and Leannon",92,937,sureste
+435,"Tillman, Dickens and Altenwerth",237,51,suroeste
+436,Becker Group,63,583,suroeste
+437,Frami LLC,238,512,suroeste
+438,D'Amore-Zieme,229,785,norte
+439,Braun Inc,58,512,noroeste
+440,"Morissette, Roob and Swaniawski",134,453,noroeste
+441,DuBuque-Mante,137,112,noreste
+442,Brekke and Sons,170,965,norte
+443,"Schultz, McClure and Purdy",152,928,sur
+444,Blick-Schiller,221,360,noreste
+445,Muller and Sons,155,821,noroeste
+446,Simonis Group,163,812,norte
+447,Berge and Sons,51,235,suroeste
+448,Zemlak Group,171,802,suroeste
+449,"Harber, Reichert and Rutherford",163,644,noreste
+450,"Runolfsdottir, McLaughlin and Wintheiser",234,121,sureste
+451,Reilly-Dietrich,171,351,norte
+452,Streich Group,207,101,norte
+453,Stiedemann LLC,59,838,este
+454,"Lockman, Friesen and Smitham",188,702,noreste
+455,"Kemmer, Greenholt and O'Keefe",213,654,este
+456,Jakubowski and Sons,159,491,noreste
+457,"Kuphal, Windler and Cummings",58,989,norte
+458,Bergnaum Inc,246,884,oeste
+459,"Stamm, Gibson and Littel",86,156,noreste
+460,Hamill and Sons,120,184,noroeste
+461,Weimann-Skiles,164,924,norte
+462,Harris-Kshlerin,81,681,oeste
+463,Corkery-Klein,223,123,oeste
+464,Schowalter Inc,56,106,oeste
+465,Orn-Gleichner,58,261,norte
+466,Schumm Inc,247,248,noroeste
+467,Schiller-Herman,176,627,noreste
+468,Stracke LLC,131,860,oeste
+469,"King, Ruecker and Ondricka",135,534,noroeste
+470,"Stark, Fisher and Abshire",189,284,noreste
+471,"Hackett, Pouros and Nicolas",170,375,sureste
+472,Leuschke-Armstrong,55,884,oeste
+473,O'Kon-Grimes,150,201,sur
+474,"Bartoletti, Torphy and Gusikowski",152,470,sureste
+475,"Ziemann, Watsica and Kautzer",152,546,noreste
+476,Glover-Hyatt,217,657,noreste
+477,Crona-Abbott,131,769,sur
+478,Mraz and Sons,174,506,noroeste
+479,"Hirthe, Muller and Weber",81,427,sur
+480,"Barton, Brown and Hand",207,835,suroeste
+481,Weimann-Kreiger,204,817,noroeste
+482,Wehner-Bergstrom,218,111,suroeste
+483,Cronin LLC,237,532,oeste
+484,Hartmann-Cronin,61,348,noroeste
+485,Kertzmann-Lindgren,127,157,suroeste
+486,Jacobi-Konopelski,111,287,sureste
+487,"Veum, Keeling and Boyer",130,700,oeste
+488,"Casper, Pagac and Sawayn",138,437,noreste
+489,Runte Inc,180,653,oeste
+490,"Marquardt, Runte and Ruecker",154,95,sur
+491,"Hauck, Leuschke and Johns",88,500,sur
+492,"Hodkiewicz, Harvey and Sporer",52,541,noroeste
+493,"Kassulke, Grady and Collins",194,680,sur
+494,Mohr Group,212,534,este
+495,Wilderman and Sons,61,414,norte
+496,"Batz, Frami and Walker",76,933,noroeste
+497,"Muller, Kerluke and Hodkiewicz",127,610,noroeste
+498,Feil-Streich,136,318,noroeste
+499,O'Keefe Group,105,866,sureste
+500,Hodkiewicz LLC,106,753,sur
