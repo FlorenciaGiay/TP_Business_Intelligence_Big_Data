@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="DESKTOP-OPUPLI5.FunnyParkDW"
+  DTS:DTSID="{348A7E6D-2DCE-4F7B-B51C-96FCCACAD30B}"
+  DTS:CreationName="OLEDB">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectRetryCount="1"
+      DTS:ConnectRetryInterval="5"
+      DTS:ConnectionString="Data Source=DESKTOP-OPUPLI5;Initial Catalog=FunnyParkDW;Provider=SQLNCLI11.1;Integrated Security=SSPI;Application Name=SSIS-TP-BI-BD-FunnyPark-{348A7E6D-2DCE-4F7B-B51C-96FCCACAD30B}DESKTOP-OPUPLI5.FunnyParkDW;Auto Translate=False;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
