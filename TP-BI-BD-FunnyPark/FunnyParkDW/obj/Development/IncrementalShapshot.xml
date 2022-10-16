@@ -1,0 +1,138 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>FunnyParkDW</Database>
+    <Server>DESKTOP-FLORGIA\MSSQLSERVERFLOR</Server>
+    <ConnectionString>Data Source=DESKTOP-FLORGIA\MSSQLSERVERFLOR;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>1eiIzq4anbo9B1GGoIEj745SYWs=16/10/2022 19:15:0916/10/2022 19:15:09</TimeStamp>
+        <ID>
+          <String>FunnyParkDW</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>6tr5zFgLH0xB7Y60n0ofGohE5/g=16/10/2022 20:04:3916/10/2022 19:15:52</TimeStamp>
+        <ID>
+          <String>FunnyParkDW_Ventas</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>u6SZ6gc/RlMBSHM/j9cymCl8Hf0=16/10/2022 19:27:3016/10/2022 19:16:41</TimeStamp>
+        <ID>
+          <String>DT Hs Capacitacion Empleado</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>act/zMyYuhFplOdA7SbLJrswlcY=16/10/2022 19:55:4016/10/2022 19:16:41</TimeStamp>
+        <ID>
+          <String>DT Empleado</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>fN/hYNJ9CMx9ZM4Mj0/QUzCg52g=16/10/2022 19:29:3316/10/2022 19:16:41</TimeStamp>
+        <ID>
+          <String>DT Salario Empleado</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>I6uHzb0NUXzz1ssiPw5UpHlYH1o=16/10/2022 19:29:3316/10/2022 19:16:41</TimeStamp>
+        <ID>
+          <String>DT Producto</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>vyzWNOykjKNzHgKpSIMh+kf1xmg=16/10/2022 19:29:3316/10/2022 19:16:41</TimeStamp>
+        <ID>
+          <String>DT Categoria Cliente</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>W/DYtZobPSmWqHWPIVlW9ej5ykU=16/10/2022 19:29:3316/10/2022 19:16:41</TimeStamp>
+        <ID>
+          <String>DT Parque</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Bc9TKC8JjsUXD6aoRkafYnw4VX0=16/10/2022 19:29:3316/10/2022 19:16:41</TimeStamp>
+        <ID>
+          <String>DT Oferta</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>N4uyMOmTm2jZjwCChE+piq2J74U=16/10/2022 19:29:3316/10/2022 19:16:41</TimeStamp>
+        <ID>
+          <String>DT Tiempo</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>bNWjjRFR3pYq1HwLemdzN3IqZNw=16/10/2022 19:55:3816/10/2022 19:16:41</TimeStamp>
+        <ID>
+          <String>DT Local</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>z5mh76R2RCzLv6WIc5xtTkydRxg=16/10/2022 19:55:3816/10/2022 19:16:41</TimeStamp>
+        <ID>
+          <String>DT Tipo Escuela Cliente</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>5fTFlO39TcpNypERhCx3hKEzMGI=16/10/2022 19:55:0416/10/2022 19:50:24</TimeStamp>
+        <ID>
+          <String>DT Geografico</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>OZDIgz2HBVg1i+VbroJILjfAPO4=16/10/2022 19:55:3816/10/2022 19:16:41vN6yY4rSgY9x9liPHifHdkdcRS8=16/10/2022 19:16:4116/10/2022 19:16:41</TimeStamp>
+        <ID>
+          <String>FunnyParkDW_Ventas</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>TWW4Ouz9cCwNBlBMqNSYxrpoJ7Q=16/10/2022 20:05:1216/10/2022 20:05:12HsXZ4FcX4nJpptp5ls9o1M2zwDU=16/10/2022 20:05:1216/10/2022 20:05:12</TimeStamp>
+        <ID>
+          <String>FunnyParkDW_Inventario</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>rUd5SvxxW123v3utgFTD+bvxKLc=16/10/2022 16:53:2116/10/2022 16:53:21</TimeStamp>
+      <ID>
+        <String>FunnyParkDW</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2022-10-16T23:06:01.86Z</LastDeployed>
+</DeploymentSnapshot>

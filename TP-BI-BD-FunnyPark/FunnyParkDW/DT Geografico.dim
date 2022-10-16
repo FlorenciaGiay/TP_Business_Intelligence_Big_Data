@@ -1,0 +1,253 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="9928cfad-ebbf-4548-8cb6-f9a89404b684" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>DT Geografico</ID>
+  <Name>DT Geografico</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+      <Value>
+        <dds xmlns="">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-2036" scrolltop="-4202" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="7112" y="11070" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+            <font>
+              <ddsxmlobjectstreamwrapper binary="010000009001b0300100065461686f6d61" />
+            </font>
+            <mouseicon>
+              <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
+            </mouseicon>
+          </diagram>
+          <layoutmanager>
+            <ddsxmlobj />
+          </layoutmanager>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="DT_Geografico" left="20" top="0" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="3000" height="2667" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e0000b80b00006b0a0000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dbo_DT_Geografico" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+        </dds>
+      </Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>-2036</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>-4202</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>20</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ARDiagramLayout</Name>
+      <Value>
+        <DiagramLayout ZoomPercent="100" ViewPortX="0" ViewPortY="0" xmlns="">
+          <Shapes NodeWidth="126">
+            <Shape Id="Id Geografico" Expanded="false">
+              <Attributes>
+                <Attribute Id="Id Geografico" />
+              </Attributes>
+              <Position x="20" y="20" />
+            </Shape>
+            <Shape Id="Pais" Expanded="false">
+              <Attributes>
+                <Attribute Id="Pais" />
+              </Attributes>
+              <Position x="182" y="20" />
+            </Shape>
+            <Shape Id="Region" Expanded="false">
+              <Attributes>
+                <Attribute Id="Region" />
+              </Attributes>
+              <Position x="182" y="69" />
+            </Shape>
+            <Shape Id="Provincia" Expanded="false">
+              <Attributes>
+                <Attribute Id="Provincia" />
+              </Attributes>
+              <Position x="182" y="118" />
+            </Shape>
+            <Shape Id="Ciudad" Expanded="false">
+              <Attributes>
+                <Attribute Id="Ciudad" />
+              </Attributes>
+              <Position x="182" y="167" />
+            </Shape>
+          </Shapes>
+        </DiagramLayout>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="4572619f-727f-44b3-b2c0-062cd839eca2">
+    <DataSourceViewID>FunnyParkDW_Ventas</DataSourceViewID>
+  </Source>
+  <ErrorConfiguration dwd:design-time-name="642be606-9514-4496-8baf-d9f500d56633">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="5d47dde2-d5b8-4f15-bd02-2d2f458fa311">
+      <ID>Id Geografico</ID>
+      <Name>Id Geografico</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="f1decc39-36bd-45f4-83b1-ce407cd5392d">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="3510ba89-ca17-4242-a212-64cc3866192a">
+            <TableID>dbo_DT_Geografico</TableID>
+            <ColumnID>id_geografico</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="235b4155-4789-400e-a1de-876b08a39455">
+          <AttributeID>Ciudad</AttributeID>
+          <Name>Ciudad</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="8d68965f-2247-4919-9ed2-22ed87beb8af">
+          <AttributeID>Provincia</AttributeID>
+          <Name>Provincia</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="46d4c34b-5175-4c24-b413-adcb0f968f6e">
+          <AttributeID>Region</AttributeID>
+          <Name>Region</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="97a09559-fee7-45e4-9f86-775fb68752ba">
+          <AttributeID>Pais</AttributeID>
+          <Name>Pais</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="f540888a-c03b-4b9c-938b-fdbeb1fae2e0">
+      <ID>Ciudad</ID>
+      <Name>Ciudad</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="f69d17b0-cb39-4e36-ac0f-37986092f556">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="aed4d211-2828-4d95-8090-7331eda92a19">
+            <TableID>dbo_DT_Geografico</TableID>
+            <ColumnID>ciudad</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="2e8409ac-ec67-4c7d-8e1c-b1402b7e57d8">
+      <ID>Provincia</ID>
+      <Name>Provincia</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="26233752-fa0f-44a0-9640-88eac6c197eb">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="f860d054-de2b-4719-be1c-dd5202ceaf50">
+            <TableID>dbo_DT_Geografico</TableID>
+            <ColumnID>provincia</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="01bfff4e-daeb-4fc2-9adc-c652eb6f00d9">
+      <ID>Region</ID>
+      <Name>Region</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="115b4e9f-cd08-4649-ad79-5ab17d1c4502">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="1a35f6bf-45c8-4171-9cc7-4f6b799f09dd">
+            <TableID>dbo_DT_Geografico</TableID>
+            <ColumnID>region</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="8b4269a2-060f-49d8-b56f-1bad1ccf2eec">
+      <ID>Pais</ID>
+      <Name>Pais</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="6c319e9c-fe68-463a-af4d-115409183953">
+          <DataType>WChar</DataType>
+          <DataSize>50</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="a125d736-6635-447e-9858-eff1a13997aa">
+            <TableID>dbo_DT_Geografico</TableID>
+            <ColumnID>pais</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <Hierarchies>
+    <Hierarchy dwd:design-time-name="0ff1a514-8ba1-4012-9137-49fee1fdd728">
+      <ID>Jerarquía</ID>
+      <Name>Jerarquía</Name>
+      <Levels>
+        <Level dwd:design-time-name="5cc02745-74a8-45e1-a659-98be39e732c0">
+          <ID>Pais</ID>
+          <Name>Pais</Name>
+          <SourceAttributeID>Pais</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="d331c96b-326a-4281-a680-78049129328c">
+          <ID>Region</ID>
+          <Name>Region</Name>
+          <SourceAttributeID>Region</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="a2942949-a972-4d68-beb8-4b764eff84db">
+          <ID>Provincia</ID>
+          <Name>Provincia</Name>
+          <SourceAttributeID>Provincia</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="2f93683b-ee08-4c7a-bb40-f2dde20f4dbc">
+          <ID>Ciudad</ID>
+          <Name>Ciudad</Name>
+          <SourceAttributeID>Ciudad</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+  </Hierarchies>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>
